@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Boss Fight RPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6db4031c063ba1c1f718a55aa634c27dfb46e710")]
 [assembly: System.Reflection.AssemblyProductAttribute("Boss Fight RPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Boss Fight RPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
