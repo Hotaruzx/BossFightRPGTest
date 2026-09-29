@@ -1,0 +1,14 @@
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\bin\Debug\net10.0\Boss Fight RPG.exe
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\bin\Debug\net10.0\Boss Fight RPG.deps.json
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\bin\Debug\net10.0\Boss Fight RPG.runtimeconfig.json
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\bin\Debug\net10.0\Boss Fight RPG.dll
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\bin\Debug\net10.0\Boss Fight RPG.pdb
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\obj\Debug\net10.0\Boss Fight RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\obj\Debug\net10.0\Boss Fight RPG.AssemblyInfoInputs.cache
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\obj\Debug\net10.0\Boss Fight RPG.AssemblyInfo.cs
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\obj\Debug\net10.0\Boss Fight RPG.csproj.CoreCompileInputs.cache
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\obj\Debug\net10.0\Boss Fight RPG.dll
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\obj\Debug\net10.0\refint\Boss Fight RPG.dll
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\obj\Debug\net10.0\Boss Fight RPG.pdb
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\obj\Debug\net10.0\Boss Fight RPG.genruntimeconfig.cache
+C:\Users\Predoo\3D Objects\FACULDADE\2º SEMESTRE\PROJETOS PROPRIOS\Boss Fight RPG\obj\Debug\net10.0\ref\Boss Fight RPG.dll
